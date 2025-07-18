@@ -8,10 +8,7 @@ here's my personal page.
 (https://stainlesteel.netlify.app)
 ### Things I know/or have used
 [![Things I know](https://skillicons.dev/icons?i=python,html,css,netlify,linux,docker,vscode)](https://skillicons.dev)
-***
-## Best Repositories
-[![sg-api Card](https://github-readme-stats.vercel.app/api/pin/?username=stainlesteel&repo=squid-game-api&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-***
+
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=stainlesteel&show_icons=true&theme=vue-dark)
 
 my stats are so ass 💔🥀
