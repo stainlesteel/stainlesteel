@@ -5,7 +5,7 @@ welcome to my github page.
 
 here's my personal page.
 
-(https://stainlesteel.netlify.app)
+https://stainlesteel.netlify.app
 ### Things I know/or have used
 [![Things I know](https://skillicons.dev/icons?i=python,html,css,netlify,linux,docker,vscode)](https://skillicons.dev)
 
