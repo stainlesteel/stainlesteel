@@ -10,6 +10,3 @@ https://stainlesteel.netlify.app
 [![Things I know](https://skillicons.dev/icons?i=python,html,css,netlify,linux,docker,vscode)](https://skillicons.dev)
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=stainlesteel&show_icons=true&theme=vue-dark)
-
-my stats are so ass 💔🥀
-
