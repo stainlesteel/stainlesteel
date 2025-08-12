@@ -34,3 +34,4 @@ Ranked from greatest to lowest preference.
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
