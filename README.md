@@ -33,7 +33,7 @@ Ranked from greatest to lowest preference.
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/#fast)
 [![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](https://www.opera.com/gx)
 ### Operating Systems
-[![Fedora KDE](https://img.shields.io/badge/Fedora‎_KDE-51A2DA?logo=fedora&logoColor=fff)](#)
+[![Fedora KDE](https://img.shields.io/badge/Fedora‎_KDE-51A2DA?logo=fedora&logoColor=fff)](https://fedoraproject.org/kde/)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](https://linuxmint.com/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](https://www.debian.org/)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](https://www.apple.com/ios/)
