@@ -30,7 +30,7 @@ Ranked from greatest to lowest preference.
 [![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)](https://zen-browser.app/)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](https://www.firefox.com/en-CA/)
 [![Orion](https://img.shields.io/badge/Orion-006CFF?logo=safari&logoColor=fff)](https://kagi.com/orion/)
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/#fast)
+[![Google Chrome](https://img.shields.io/badge/Chromium-4285F4?logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/#fast)
 [![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](https://www.opera.com/gx)
 ### Operating Systems
 [![Fedora KDE](https://img.shields.io/badge/Fedora‎_KDE-51A2DA?logo=fedora&logoColor=fff)](https://fedoraproject.org/kde/)
