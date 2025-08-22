@@ -39,7 +39,13 @@ Ranked from greatest to lowest preference.
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](https://www.apple.com/ios/)
-
+## Things I want to learn/use
+### Frameworks
+[![Flet](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](https://www.flet.dev)
+### Cloud Platforms
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](https://aws.amazon.com/)
+### Databases
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://sqlite.org/)
 ## Donate
 Two platforms available to donate.
 
