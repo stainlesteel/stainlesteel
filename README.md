@@ -12,6 +12,8 @@ Ranked from greatest to lowest preference.
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](https://www.w3.org/TR/css/)
+### Frameworks
+[![Flet](https://img.shields.io/badge/Flet%20(Flutter)-02569B?logo=flutter&logoColor=fff)](https://www.flet.dev)
 ### Cloud Platforms
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/en-ca/)
@@ -40,8 +42,6 @@ Ranked from greatest to lowest preference.
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](https://www.apple.com/ios/)
 ## Things I want to learn/use
-### Frameworks
-[![Flet](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](https://www.flet.dev)
 ### Cloud Platforms
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](https://aws.amazon.com/)
 ### Databases
