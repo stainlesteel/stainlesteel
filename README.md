@@ -8,33 +8,33 @@ welcome to my github page.
 -->
 ## Things I know/or have used
 Ranked from greatest to lowest preference.
-### Software Languages
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](https://www.w3.org/TR/css/)
-### Frameworks
-[![Flet](https://img.shields.io/badge/Flet%20(Flutter)-02569B?logo=flutter&logoColor=fff)](https://www.flet.dev)
-### Cloud Platforms
+
+[![Flet](https://img.shields.io/badge/Flet-e30b5c?logo=flutter&logoColor=fff)](https://www.flet.dev)
+
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/en-ca/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://docs.github.com/en/pages)
-### Dev Tools
+
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
-### Git
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
-### Code Editors
+
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io/)
 [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](https://vscodium.com/)
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](https://www.vim.org/)
-### Browsers
+
 [![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)](https://zen-browser.app/)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](https://www.firefox.com/en-CA/)
 [![Orion](https://img.shields.io/badge/Orion-006CFF?logo=safari&logoColor=fff)](https://kagi.com/orion/)
 [![Google Chrome](https://img.shields.io/badge/Chromium-4285F4?logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/#fast)
 [![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](https://www.opera.com/gx)
-### Operating Systems
+
 [![Fedora KDE](https://img.shields.io/badge/Fedora‎_KDE-51A2DA?logo=fedora&logoColor=fff)](https://fedoraproject.org/kde/)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](https://linuxmint.com/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](https://www.debian.org/)
@@ -42,12 +42,10 @@ Ranked from greatest to lowest preference.
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](https://www.apple.com/ios/)
 ## Things I want to learn/use
-### Cloud Platforms
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](https://aws.amazon.com/)
-### Databases
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://sqlite.org/)
+![PocketBase](https://img.shields.io/badge/Pocketbase-%23b8dbe4.svg?logo=Pocketbase&logoColor=black)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
 ## Donate
-Two platforms available to donate.
 
 [![Ko-fi (for a project)](https://img.shields.io/badge/Ko--fi_[for_a_project]-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/stainlesssteel)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/c/stainlesteel)
