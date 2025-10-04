@@ -45,6 +45,7 @@ Ranked from greatest to lowest preference.
 ![PocketBase](https://img.shields.io/badge/Pocketbase-%23b8dbe4.svg?logo=Pocketbase&logoColor=black)
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
 ## Donate
 
 [![Ko-fi (for a project)](https://img.shields.io/badge/Ko--fi_[for_a_project]-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/stainlesssteel)
