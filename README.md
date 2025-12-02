@@ -7,13 +7,14 @@ welcome to my github page.
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=stainlesteel&show_icons=true&theme=vue-dark)
 -->
 ## Things I know/or have used
-Ranked from greatest to lowest preference.
+
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](https://www.w3.org/TR/css/)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
 
-[![Flet](https://img.shields.io/badge/Flet-e30b5c?logo=flutter&logoColor=fff)](https://www.flet.dev)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
 
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/en-ca/)
@@ -44,9 +45,4 @@ Ranked from greatest to lowest preference.
 ## Things I want to learn/use
 ![PocketBase](https://img.shields.io/badge/Pocketbase-%23b8dbe4.svg?logo=Pocketbase&logoColor=black)
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
-## Donate
 
-[![Ko-fi (for a project)](https://img.shields.io/badge/Ko--fi_[for_a_project]-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/stainlesssteel)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/c/stainlesteel)
